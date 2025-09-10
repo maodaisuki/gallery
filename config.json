@@ -5,9 +5,9 @@
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
+  "embed-exif": true,
   "cleanup": true,
   "theme-path": "./theme",
   "css": "./custom.css",
-  "footer": "Photoed by mao",
-  "usage-stats": true
+  "footer": "Photoed by mao"
 }
