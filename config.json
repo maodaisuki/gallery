@@ -4,7 +4,7 @@
   "title": "Photo Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
-  "download-photos": "copy",
+  "photo-download": "copy",
   "embed-exif": true,
   "cleanup": true,
   "theme-path": "./theme",
