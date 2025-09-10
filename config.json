@@ -6,8 +6,8 @@
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme-path": "./theme",
   "css": "./custom.css",
   "footer": "Photoed by mao",
-  "usage-stats": false
+  "usage-stats": true
 }
